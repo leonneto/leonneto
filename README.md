@@ -1,5 +1,5 @@
 <div align="center">
-<img align="center" alt="leo-pic" height="100%" style="border-radius:50px;" src="https://64.media.tumblr.com/ca66ccacb06cb0bd93d3b45ff6d21392/a1903f3f794babfa-c6/s500x750/2a2b86066ecd50203979cd70579eca3b1cd1f765.gifv">
+<img align="center" alt="leo-pic" height="100%" style="border-radius:50px;" src="https://cdnb.artstation.com/p/assets/images/images/036/839/859/large/stiopa-5.jpg?1618775815">
 
 
 ### Hi there, welcome to my Github profile  👋
