@@ -1,3 +1,7 @@
+<div align="center">
+<img align="center" alt="leo-pic" height="100%" style="border-radius:50px;" src="https://64.media.tumblr.com/ca66ccacb06cb0bd93d3b45ff6d21392/a1903f3f794babfa-c6/s500x750/2a2b86066ecd50203979cd70579eca3b1cd1f765.gifv">
+
+
 ### Hi there, welcome to my Github profile  👋
 
 
@@ -8,7 +12,7 @@
 - 🌱 I’m currently learning: HTML5, CSS & Javascript
 - 📫 ask me about: fighting games and souls like
 <hr>
-<div align="center">
+
   <a href="https://github.com/leonneto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonneto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonneto&layout=compact&langs_count=7&theme=dark"/>
