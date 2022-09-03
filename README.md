@@ -10,7 +10,7 @@
 - 📚 analysis and systems development undergraduate at Federal Institute of Mato Grosso do Sul
 - 💻 i want to become a front end developer and also work with graphic designer.
 - 🌱 I’m currently learning: HTML5, CSS & Javascript
-- 📫 ask me about: fighting games and souls like
+
 <hr>
 
   <a href="https://github.com/leonneto">
