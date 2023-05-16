@@ -4,20 +4,6 @@
 
 ### Hi there, welcome to my Github profile  👋
 
-
-- 👱‍ My name is Leonardo Batista, i'm 21 years old.
-- 😄 Pronouns: he/him
-- 📚 analysis and systems development undergraduate at Federal Institute of Mato Grosso do Sul
-- 💻 i want to become a front end developer and also work with graphic designer.
-- 🌱 I’m currently learning: HTML5, CSS & Javascript
-
-<hr>
-
-  <a href="https://github.com/leonneto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonneto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonneto&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  <hr>
   
   <div style="display: inline_block"><br>
   <img align="center" alt="leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
