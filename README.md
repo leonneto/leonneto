@@ -12,7 +12,7 @@
 
 ## ⭐️ Sobre mim
 
-Sou formado em <b>Metalurgia</b> pelo Instituto federal de Mato Grosso do Sul e atualmente formando em <b>Análise e desenvolvimento de sistemas ADS</b> no IFMS. Atuei como Recenseador do IBGE - Instituto Brasileiro de Geografia e Estatística e atualmente estou focado em ingressa na área da TI  . No Github irei  compartilhar meus projetos e estudos geralmente em Java. Atualmente estou estudando Spring Boot e Mysql.
+Sou formado em <b>Metalurgia</b> pelo Instituto federal de Mato Grosso do Sul e atualmente formando em <b>Análise e desenvolvimento de sistemas ADS</b> no IFMS. Atuei como Recenseador do IBGE - Instituto Brasileiro de Geografia e Estatística e atualmente estou trabalhando com criação de sites utilizando WordPress. No Github irei  compartilhar meus projetos e estudos geralmente em Java. Atualmente estou estudando Spring Boot e Mysql.
 
 <div align="center">
   <table>
@@ -29,22 +29,28 @@ Sou formado em <b>Metalurgia</b> pelo Instituto federal de Mato Grosso do Sul e 
 
 <b>Além da programação...</b>
 
-- Gamer nas horas vagas.
-- Fanboy da Nintendo
-- Amo filmes de terror do subgênero slasher e found footage.
+- Gamer nas horas vagas;
+- Entusiasta de jogos de luta;
+- Calistenico inimigo da periodização do treino de força;  
+- Filmes de terror do subgênero slasher e found footage são minhas paixões.
 
 
 ## ⭐️ Hard Skills
 <!--  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andreinaoliveira&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true%22/"> --> 
 <div align="center">
-  <!-- Java --> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-  <!-- Kotlin --> <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
+  
+  <!--CSS3 --> <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  <!--HTML5 --> <img src = "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> 
+  <!--Java--> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+  <!--Kotlin --> <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
+  <!--AndroidStudio --> <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" >
   <!-- C# --> <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
   <!-- Spring --> <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
   <!-- Docker --> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
   <!-- Apache Maven --> <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white">
-  <!-- SQL --> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
-
+  <!-- SQL --> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  <!-- WordPress --> <img src = "https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" >
+  
   <br>
 </div>
 
