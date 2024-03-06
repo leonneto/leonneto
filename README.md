@@ -21,8 +21,7 @@ Sou formado em <b>Metalurgia</b> pelo Instituto federal de Mato Grosso do Sul e 
       <td><b>🧪 Desenvolvedor Java</b></td>
     </tr>
     <tr>
-      <td><img src="https://bkpsitecpsnew.blob.core.windows.net/uploadsitecps/sites/1/2020/10/analise_desenvolvimento_sistemas_DCStudio_Freepik.jpg" width="300px" height="170px"></td>
-      <td><img src="https://programmerhumor.io/wp-content/uploads/2022/12/programmerhumor-io-java-memes-backend-memes-9a563a8f973239d.png" width="300px" height="170px"> </td>
+      
     </tr>
   </table>
 </div>
