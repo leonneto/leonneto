@@ -10,7 +10,7 @@
   <a href="https://steamcommunity.com/id/NogitsuneNight/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 </div>
 
-## ⭐️ Sobre mim
+## Sobre mim
 
 Sou formado em <b>Metalurgia</b> pelo Instituto federal de Mato Grosso do Sul e atualmente formando em <b>Análise e desenvolvimento de sistemas ADS</b> no IFMS. Atuei como Recenseador do IBGE - Instituto Brasileiro de Geografia e Estatística e atualmente estou trabalhando com criação de sites utilizando WordPress. No Github irei  compartilhar meus projetos e estudos geralmente em Java. Atualmente estou estudando Spring Boot e Mysql.
 
@@ -27,15 +27,9 @@ Sou formado em <b>Metalurgia</b> pelo Instituto federal de Mato Grosso do Sul e 
   </table>
 </div>
 
-<b>Além da programação...</b>
-
-- Gamer nas horas vagas;
-- Entusiasta de jogos de luta;
-- Calistenico inimigo da periodização do treino de força;  
-- Filmes de terror do subgênero slasher e found footage são minhas paixões.
 
 
-## ⭐️ Hard Skills
+## Hard Skills
 <!--  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andreinaoliveira&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true%22/"> --> 
 <div align="center">
   
